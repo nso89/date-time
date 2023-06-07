@@ -22,7 +22,7 @@ C:\Users\nso89>cd date-time-main
 
 **Example**:
 ```batch
-C:\Users\nso89\image-name-cleanup-main>run.bat
+C:\Users\nso89\date-time-main>run.bat
 ```
 
 3. It outputs the current `Date` and `Time`.
