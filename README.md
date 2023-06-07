@@ -1,4 +1,4 @@
-# Date-Time
+# date-time
 Get the Date-Time (YYYYMMDD-HHMMSS).
 
 * [Setup](#setup)
