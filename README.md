@@ -25,7 +25,7 @@ C:\Users\nso89>cd date-time-main
 C:\Users\nso89\image-name-cleanup-main>run.bat
 ```
 
-3. It outputs the current `Date` and `Time.
+3. It outputs the current `Date` and `Time`.
 
 **Example**:
 ```batch
