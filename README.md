@@ -1,40 +1,33 @@
-# project-name
-Project Description
+# date-time
+Get the Date-Time (YYYYMMDD-HHMMSS).
 
-* [Prerequisites](#prerequisites)
 * [Setup](#setup)
 * [Running the Script](#running-the-script)
-* [Configuration](#configuration)
-* [Cleanup](#cleanup)
-
-#### <a name="prerequisites"></a>Prerequisites
-* A complete install of `Python 3.x`.
 
 #### <a name="setup"></a>Setup
-1. Under your `USERPROFILE`, extract `program-name-main.zip`.
+1. Under your `USERPROFILE`, extract `date-time-main.zip`.
 
 **Example**:
-```
+```batch
+C:\Users\nso89\date-time-main\run.bat
 ```
 #### <a name="running-the-script"></a>Running the Script
-1. Open `cmd.exe` and change the directory to the `program-name-main` folder.
+1. Open `cmd.exe` and change the directory to the `date-time-main` folder.
 
 **Example**:
+```batch
+C:\Users\nso89>cd date-time-main
 ```
-```
-2. Start the `main.py` script.
+2. Start the `run.bat` script.
 
 **Example**:
+```batch
+C:\Users\nso89\date-time-main>run.bat
 ```
-```
-#### <a name="configuration"></a>Configuration
-If you need to change the `insert-variable-name(s)`:
 
-1. Open the `main.py` script in any text editor.
-2. Locate the `insert-variable-name(s)` variable.
+3. It outputs the current `Date` and `Time`.
 
 **Example**:
+```batch
+20230607-90105
 ```
-```
-3. When you finish changing the variables, save and close the editor.
-#### <a name="cleanup"></a>Clean Up
