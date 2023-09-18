@@ -9,7 +9,7 @@ Get the Date-Time (YYYYMMDD-HHMMSS).
 
 **Example**:
 ```batch
-C:\Users\nso89\date-time-main\run.bat
+C:\Users\nso89\date-time-main
 ```
 #### <a name="running-the-script"></a>Running the Script
 1. Open `cmd.exe` and change the directory to the `date-time-main` folder.
